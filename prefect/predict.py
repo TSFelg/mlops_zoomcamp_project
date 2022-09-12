@@ -44,9 +44,7 @@ def write_predictions(df):
 
 
 @flow
-def main(run_date=None, log_stdout=True):
-    logger = get_run_logger()
-    logger.info("Hello World")
+def main(run_date=None):
     df = get_data()
     df = clean_data(df)
 
