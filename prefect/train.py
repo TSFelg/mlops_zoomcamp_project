@@ -54,7 +54,7 @@ def model_train(df):
 
 
 @flow
-def main():
+def train_flow():
     df = get_data()
     df = prepare_data(df)
 
