@@ -1,0 +1,3 @@
+[submodule "mlflow-for-gcp"]
+	path = mlflow-for-gcp
+	url = https://github.com/TSFelg/mlflow-for-gcp.git
