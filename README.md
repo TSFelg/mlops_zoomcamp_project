@@ -1,7 +1,5 @@
 # MLOps Zoomcamp Project
 
-![video](https://share.cleanshot.com/QLG0NL)
-
 ## Overview
 
 This project consists of an application that forecasts the mobility trends for retail & recreation in Portugal using  [Google's Community Mobility Reports](https://www.google.com/covid19/mobility). According to Google, this includes places like restaurants, cafes, shopping centers, theme parks, museums, libraries, and movie theaters.
