@@ -23,7 +23,7 @@ ___
 MLFlow is used to store the models as well as their corresponding metadata. This is specially important given the monthly retraining, it's important to keep track of the several models that are being trained on a standard location and have an easy way to roll back if necessary.
 
 I decided to set it up using Cloud Run and I mostly followed this [blogpost](https://dlabs.ai/blog/a-step-by-step-guide-to-setting-up-mlflow-on-the-google-cloud-platform/
-). My implementation is on this separate [repo](https://github.com/TSFelg/mlflow-for-gcp). 
+). My implementation is on the mlflow submodule.
 
 
 
