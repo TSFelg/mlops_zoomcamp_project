@@ -62,3 +62,11 @@ Finally, we start an agent that will run the deployed flows:
 ```
 prefect agent start -q 'forecasting'
 ```
+
+## Future Improvements
+
+- Add model monitoring (e.g: EvidentlyAI or WhyLabs)
+- Add IAC with Terraform
+- Add a UI to visualize data and predictions (e.g: Streamlit)
+- Improve best practices with tests and CI/CD
+
